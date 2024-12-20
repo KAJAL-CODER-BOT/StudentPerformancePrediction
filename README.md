@@ -8,4 +8,4 @@ SMOTE: Generates synthetic samples to balance class distributions.
 Feature Selection: Identifies significant features influencing student performance.
 Model Optimization: Utilizes ABC and ACO algorithms to fine-tune model parameters.
 
-The repository includes experiments with base models such as Decision Trees (DT), K-Nearest Neighbors (KNN), and XGBoost, both with and without SMOTE. Additionally, Kendall Tau correlation was implemented to assess feature relationships, and Chi-Square tests were presented for optimal feature selection. This framework aims to provide accurate predictions, enabling educational institutions to identify at-risk students and implement timely interventions.
+This repository includes experiments with base models such as Decision Trees (DT), K-Nearest Neighbors (KNN), and XGBoost, both with and without SMOTE. Additionally, Kendall Tau correlation was implemented to assess feature relationships, and Chi-Square tests were presented for optimal feature selection. This framework aims to provide accurate predictions, enabling educational institutions to identify at-risk students and implement timely interventions.
